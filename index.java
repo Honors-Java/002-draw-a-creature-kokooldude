@@ -13,6 +13,10 @@ void draw() {
   //all of your programming should be after this 👍
 
 
+//Creature's feet
+triangle(83, 315, 95, 361, 125, 331)
+triangle(135, 329, 161, 361, 179, 315)
+
 //body circles
 
   ellipse(200, 50, 100, 100)
@@ -41,3 +45,4 @@ ellipse(226, 33, 10, 10)
 //creatures body
 fill(0, 0, 100)
 }
+
